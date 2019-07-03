@@ -1,0 +1,25 @@
+03 July 2019
+    TCCL internal plan needs to be ready.
+    
+    ## Getting familiar with GIT. Planning to make a video.
+        Video content: 
+        1. Download & Install GIT from git-scm.com
+        2. Add global info:
+            git config --global user.name "Me"          // Add global username to git.
+            git config --global user.email me@me.com    // Add global email to git.
+        3. Create repository:
+            git init                                    // Initialize git repository.
+        4. Add files to repository:
+            git add <file1 file2>                       // Add specified files.
+            git add *                                   // Add all files.
+        5. Commit changes:
+            git commit -m "Commit message."
+        6. create a new branch:
+            git branch <branchname>                     // Create new branch.
+            git checkout -b <branchname>                // Create new branch and switch to it.
+        7. Switch to branch:
+            git checkout <branchname>
+        8. Show details
+            git log                                     // Show commit history.
+        9. Delete branch:
+            git branch -d <branchname>
