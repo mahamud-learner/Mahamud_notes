@@ -1,0 +1,5 @@
+VirtualBox shortcut NOT working for sometime.
+    Solution: Change VirtualBox.exe to VirtualBoxVM.exe in the shortcut properties.
+
+Change GIT repository from 'public' GIThub repository to 'private' Bitbucket repository.
+    
